@@ -1,6 +1,6 @@
 
 h1{color: rgb(187, 18, 18);
-/*border: 1px solid rgb(4, 4, 4);*/
+
 font-size: 60px;
 text-align: center;
 margin: 0;
@@ -31,9 +31,3 @@ header,footer{color:rgb(187, 18, 18);
 font-size: 10px;
 text-align: center;
 }
-/* test */
-
-
-/* #insta{ /*display: block;
-margin: 0 auto;*/
-/*text-align: center;} 
